@@ -1,0 +1,13 @@
+list dependencies:
+Flask
+torch
+torchvision
+transformers
+numpy
+opencv-python
+pillow
+tifffile
+
+install dependencies
+pip install Flask torch torchvision transformers numpy opencv-python pillow tifffile
+
